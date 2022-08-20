@@ -1,3 +1,1 @@
-print('Hello World')
-n1 = int(intput('Digite um numero: ')
-print('o numero {} mais 2 é: {}'.format(n1,n1+2))
++2))
